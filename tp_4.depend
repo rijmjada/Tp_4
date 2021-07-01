@@ -1,0 +1,381 @@
+# depslib dependency file v1.0
+1624233039 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Genericas.h"
+	"Menu.h"
+
+1565993298 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\linkedlist.h
+
+1623846605 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\controller.h
+
+1624230333 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\employee.h
+
+1624234740 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1624230333 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"Genericas.h"
+
+1624226569 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1624219827 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Genericas.h"
+
+1624219656 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\genericas.h
+
+1624029293 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\parser.h
+
+1624230333 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\menu.h
+
+1624230333 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624234740 source:c:\users\administrador\desktop\tp_3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1565993298 c:\users\administrador\desktop\tp_3\linkedlist.h
+
+1624230333 c:\users\administrador\desktop\tp_3\employee.h
+
+1624029293 c:\users\administrador\desktop\tp_3\parser.h
+
+1624219656 c:\users\administrador\desktop\tp_3\genericas.h
+
+1624230333 c:\users\administrador\desktop\tp_3\menu.h
+
+1624230333 source:c:\users\administrador\desktop\tp_3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"Genericas.h"
+
+1624219827 source:c:\users\administrador\desktop\tp_3\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Genericas.h"
+
+1624233039 source:c:\users\administrador\desktop\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Genericas.h"
+	"Menu.h"
+
+1623846605 c:\users\administrador\desktop\tp_3\controller.h
+
+1624230333 source:c:\users\administrador\desktop\tp_3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624226569 source:c:\users\administrador\desktop\tp_3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1624294405 source:c:\users\administrador\desktop\tp_3(code_blocks)\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\linkedlist.h
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\employee.h
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\parser.h
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\genericas.h
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\menu.h
+
+1624294605 source:c:\users\administrador\desktop\tp_3(code_blocks)\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"Genericas.h"
+
+1624294694 source:c:\users\administrador\desktop\tp_3(code_blocks)\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Genericas.h"
+
+1624294405 source:c:\users\administrador\desktop\tp_3(code_blocks)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Genericas.h"
+	"Menu.h"
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\controller.h
+
+1624294694 source:c:\users\administrador\desktop\tp_3(code_blocks)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624294694 source:c:\users\administrador\desktop\tp_3(code_blocks)\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1624838458 source:c:\users\administrador\desktop\tp4 v.1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Persona.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1624294405 c:\users\administrador\desktop\tp4 v.1\linkedlist.h
+
+1624829278 c:\users\administrador\desktop\tp4 v.1\employee.h
+
+1624829937 c:\users\administrador\desktop\tp4 v.1\parser.h
+
+1624833015 c:\users\administrador\desktop\tp4 v.1\genericas.h
+
+1624294405 c:\users\administrador\desktop\tp4 v.1\menu.h
+
+1624829041 source:c:\users\administrador\desktop\tp4 v.1\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"Genericas.h"
+
+1624833165 source:c:\users\administrador\desktop\tp4 v.1\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Genericas.h"
+
+1624838336 source:c:\users\administrador\desktop\tp4 v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Persona.h"
+	"Genericas.h"
+	"Menu.h"
+
+1624838461 c:\users\administrador\desktop\tp4 v.1\controller.h
+
+1624838076 source:c:\users\administrador\desktop\tp4 v.1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Genericas.h"
+
+1624831973 source:c:\users\administrador\desktop\tp4 v.1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Persona.h"
+	"parser.h"
+
+1624826702 source:c:\users\administrador\desktop\tp4 v.1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1624839233 c:\users\administrador\desktop\tp4 v.1\persona.h
+
+1624837551 source:c:\users\administrador\desktop\tp4 v.1\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Persona.h"
+	"Genericas.h"
+
+1625068451 source:c:\users\administrador\desktop\test\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Persona.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1625147154 c:\users\administrador\desktop\test\linkedlist.h
+
+1625065054 c:\users\administrador\desktop\test\persona.h
+
+1625061457 c:\users\administrador\desktop\test\parser.h
+
+1624981125 c:\users\administrador\desktop\test\genericas.h
+
+1624294405 c:\users\administrador\desktop\test\menu.h
+
+1624981152 source:c:\users\administrador\desktop\test\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Ctype.h>
+	"Genericas.h"
+
+1625148140 source:c:\users\administrador\desktop\test\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625061849 source:c:\users\administrador\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Persona.h"
+	"Genericas.h"
+	"Menu.h"
+
+1625061664 c:\users\administrador\desktop\test\controller.h
+
+1625061881 source:c:\users\administrador\desktop\test\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Genericas.h"
+
+1625064704 source:c:\users\administrador\desktop\test\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Persona.h"
+	"parser.h"
+
+1625065848 source:c:\users\administrador\desktop\test\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Persona.h"
+	"Genericas.h"
+
+1625149878 source:c:\users\administrador\desktop\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Persona.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1625147154 c:\users\administrador\desktop\tp4\linkedlist.h
+
+1625065054 c:\users\administrador\desktop\tp4\persona.h
+
+1625061457 c:\users\administrador\desktop\tp4\parser.h
+
+1624981125 c:\users\administrador\desktop\tp4\genericas.h
+
+1624294405 c:\users\administrador\desktop\tp4\menu.h
+
+1625149878 source:c:\users\administrador\desktop\tp4\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Ctype.h>
+	"Genericas.h"
+
+1625148140 source:c:\users\administrador\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625061849 source:c:\users\administrador\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Persona.h"
+	"Genericas.h"
+	"Menu.h"
+
+1625061664 c:\users\administrador\desktop\tp4\controller.h
+
+1625149878 source:c:\users\administrador\desktop\tp4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Genericas.h"
+
+1625064704 source:c:\users\administrador\desktop\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Persona.h"
+	"parser.h"
+
+1625065848 source:c:\users\administrador\desktop\tp4\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Persona.h"
+	"Genericas.h"
+
